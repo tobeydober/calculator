@@ -1,0 +1,17 @@
+.calculator {
+    width: 500px;
+    height: 800px;
+    margin: auto;
+    background-color: darkkhaki;
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr; */
+}
+
+.altButtons {
+    
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
