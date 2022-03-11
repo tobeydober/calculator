@@ -15,3 +15,5 @@ const OPERATE = (function(number1, number2, operator) {
             return DIVIDE(number1, number2)
     }
 })
+
+console.log('tello')
